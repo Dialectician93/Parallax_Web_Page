@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parallax{
+    min-height: 600px;
+    background-image: url("bg1.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2{
+    min-height: 600px;
+    background-image: url("bg3.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax3{
+    min-height: 600px;
+    background-image: url("bg4.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax4{
+    min-height: 600px;
+    background-image: url("bg5.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax5{
+    min-height: 600px;
+    background-image: url("bg1.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    outline: 7px inset darkmagenta;
+    outline-offset: 8px;
+    display: inline-block;
+    font-size: 40px;
+    background-color:black ;
+    color: white;
+    letter-spacing: 8px;
+    border-radius: 25px 0px 25px 0px;
+    padding: 10px;
+    margin-left:375px;
+    bottom: 50px;
+}
+.first{
+    position: relative;
+}
+.first1{
+    margin: auto;
+    position: absolute;
+    top: 15rem;
+}
+.first1 h1{
+    margin-left: 400px;
+}
+.third{
+    position: relative;
+}
+.third1{
+    margin-left: 400px;
+    position: absolute;
+    top: 15rem;
+}
+.fifth{
+    position: relative;
+}
+.fifth1{
+    margin: auto;
+    position: absolute;
+    top: 15rem;
+}
+.seventh{
+    position: relative;
+}
+.seventh1{
+    margin: auto;
+    position: absolute;
+    top: 15rem;
+}
+.second h2{
+    text-align: center;
+}
+.second{
+    background-color: rgba(128, 128, 128, 0.215);
+    padding: 10px;
+}
+.second p{
+    line-height: 30px;
+    margin:  0 3.5rem 3.5rem;
+}
+
+.third{
+    opacity: 0.7;
+    text-align: center;
+}
+.fourth{
+    background-color: black;
+    color: rgb(180, 180, 180);
+    text-align: center;
+    line-height: 30px;
+    padding: 90px;
+}
+.fifth h1{
+    outline: 7px inset darkmagenta;
+    outline-offset: 8px;
+    display: inline-block;
+    font-size: 40px;
+    background-color:black ;
+    color: white;
+    letter-spacing: 8px;
+    border-radius: 25px 0px 25px 0px;
+    padding: 10px;
+    margin-left:300px ;
+}
+.sixth{
+    background-color: rgba(128, 128, 128, 0.215);
+    text-align: center;
+    line-height: 30px;
+    padding: 60px;
+    
+    
+}
+.last{
+    background-color: black;
+    color: rgb(180, 180, 180);
+    text-align: center;
+    line-height: 30px;
+    padding: 90px;
+    
+}
+.last2{
+    position: relative;
+}
+.last3{
+    margin: auto;
+    position: absolute;
+    top: 15rem;
+}
+.last3 h1{
+    font-size: 30px;
+    text-align: center;
+}
