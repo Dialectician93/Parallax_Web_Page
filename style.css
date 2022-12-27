@@ -53,7 +53,7 @@ h1{
     letter-spacing: 8px;
     border-radius: 25px 0px 25px 0px;
     padding: 10px;
-    margin-left:375px;
+    margin-left:400px;
     bottom: 50px;
 }
 .first{
@@ -65,13 +65,13 @@ h1{
     top: 15rem;
 }
 .first1 h1{
-    margin-left: 400px;
+    margin-left: 450px;
 }
 .third{
     position: relative;
 }
 .third1{
-    margin-left: 400px;
+    margin-left: 425px;
     position: absolute;
     top: 15rem;
 }
@@ -91,6 +91,9 @@ h1{
     position: absolute;
     top: 15rem;
 }
+.seventh1 h1{
+    margin-left: 400px;
+}
 .second h2{
     text-align: center;
 }
@@ -104,7 +107,6 @@ h1{
 }
 
 .third{
-    opacity: 0.7;
     text-align: center;
 }
 .fourth{
@@ -124,7 +126,7 @@ h1{
     letter-spacing: 8px;
     border-radius: 25px 0px 25px 0px;
     padding: 10px;
-    margin-left:300px ;
+    margin-left: 300px;
 }
 .sixth{
     background-color: rgba(128, 128, 128, 0.215);
@@ -151,6 +153,7 @@ h1{
     top: 15rem;
 }
 .last3 h1{
+    margin-left: 400px;
     font-size: 30px;
     text-align: center;
 }
