@@ -1,2 +1,2 @@
-# Parallax_Web_Page
+# Parallax_Web_Page linki yenilendi....
 https://dialectician93.github.io/Parallax_Web_Page/
